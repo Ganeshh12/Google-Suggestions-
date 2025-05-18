@@ -1,0 +1,12 @@
+.inner-elements {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px 0px 10px;
+  height: 38px;
+}
+
+.suggestion-arrow {
+  height: 28px;
+}
